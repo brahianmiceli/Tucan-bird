@@ -1,7 +1,8 @@
 # [Tucan Bird]
 
-In this tutorial, you will learn to create the flappy bird game with the built-in java awt/swing graphics library.
+El juego flappy bird con la librería gráfica java awt/swing incorporada.
 
-Throughout the tutorial, you will learn how to create the game loop, create a jframe and jpanel, draw images on the jpanel, add click handlers to make the flappy bird jump, randomly generate pipes and move them across the screen, detect collisions between the flappy bird and each pipe, and add a running score. 
+Incluye el bucle del juego, crear un jframe y un jpanel, dibujar imágenes en el jpanel, añadir manejadores de clic para que el pájaro flappy salte, generar aleatoriamente tuberías y moverlas por la pantalla, detectar colisiones entre el pájaro flappy y cada tubería, y añadir una puntuación en ejecución.
 
-![flappybird-ss](![image](https://github.com/user-attachments/assets/d2bb052c-c87a-45b4-aa03-995bd48c9a5a)
+
+![image](https://github.com/user-attachments/assets/d2bb052c-c87a-45b4-aa03-995bd48c9a5a)
