@@ -136,7 +136,7 @@ public class tucanBird extends JPanel implements ActionListener, KeyListener {
 
         g.setFont(new Font("Arial Bold", Font.PLAIN, 32));
         if (gameOver) {
-            g.drawString("Game Over: " + String.valueOf((int) score), 10, 35);
+            g.drawString("Fin del Juego: " + String.valueOf((int) score), 10, 35);
         }
         else {
             g.drawString(String.valueOf((int) score), 10, 35);
