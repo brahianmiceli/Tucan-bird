@@ -72,8 +72,8 @@ public class tucanBird extends JPanel implements ActionListener, KeyListener {
         addKeyListener(this);
 
         //load images
-        backgroundImg = new ImageIcon(getClass().getResource("./flappybirdbg.png")).getImage();
-        birdImg = new ImageIcon(getClass().getResource("./flappybird.png")).getImage();
+        backgroundImg = new ImageIcon(getClass().getResource("./tucanbirdbg.png")).getImage();
+        birdImg = new ImageIcon(getClass().getResource("./tucanbird.png")).getImage();
         topPipeImg = new ImageIcon(getClass().getResource("./toppipe.png")).getImage();
         bottomPipeImg = new ImageIcon(getClass().getResource("./bottompipe.png")).getImage();
 
